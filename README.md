@@ -1,5 +1,6 @@
-# Conversor notas de ensino br / pt
-Excel conversor de notas ensino , brasil / portugal
+# Conversor notas de ensino BR / PT
+
+Folha de Excel conversor de notas ensino , brasil / portugal
 
 Folha de excel para fazer conversão de notas do ensino brasileiro para o ensino português, baseado em decreto de lei em vigor.
 
